@@ -1,2 +1,0 @@
-# laymanspath
-Dream Documentation Project

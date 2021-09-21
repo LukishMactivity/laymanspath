@@ -1,1 +1,13 @@
 site_name: Layman's Path
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  palette:
+    primary: purple
+    accent: light green
+  logo: assets/DreamcatcherLogo

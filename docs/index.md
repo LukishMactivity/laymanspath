@@ -1,4 +1,4 @@
-# Welcome to 2DreamWatch the LayPerson's Path
+# Welcome
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
