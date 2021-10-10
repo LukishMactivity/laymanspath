@@ -1,4 +1,5 @@
 site_name: Layman's Path
+site_url: http://127.0.0.1:8000/
 
 nav:
   - Home: index.md
@@ -10,4 +11,4 @@ theme:
   palette:
     primary: purple
     accent: light green
-  logo: assets/DreamcatcherLogo
+  logo: assets/DreamcatcherLogo.png
