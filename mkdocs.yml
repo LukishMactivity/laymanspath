@@ -1,5 +1,5 @@
 site_name: Layman's Path
-site_url: http://127.0.0.1:8000/
+site_url: https://2dreamwatch.github.io/laymanspath/
 
 nav:
   - Home: index.md
