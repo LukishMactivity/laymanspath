@@ -6,6 +6,10 @@ nav:
   - About: about.md
   - Contact: contact.md
 
+plugins:
+    - search
+    - git-revision-date
+
 theme:
   name: material
   palette:
