@@ -7,13 +7,12 @@ nav:
   - Contact: contact.md
 
 plugins:
+    - blogging:
+        dirs: # The directories to be included
+          - blog
     - search
-    - git-revision-date
-    - blog:
-        format: "%d/%m/y%"
-        folder: "blog"
-    - tags
-
+    #- git-revision-date
+    
 theme:
   name: material
   palette:
