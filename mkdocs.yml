@@ -2,19 +2,25 @@ site_name: Layman's Path
 site_url: https://2dreamwatch.github.io/laymanspath/
 
 nav:
-  - Home: index.md
   - About: about.md
+  - Blog: index.md
   - Contact: contact.md
-
+  
 plugins:
     - blogging:
         dirs: # The directories to be included
-          - blog
+          - Articles
+
     - search
-    #- git-revision-date
+    - git-revision-date
     
 theme:
   name: material
+  theme:
+  features:
+    - navigation.tabs
+    #- toc.integrate
+    - header.autohide
   palette:
     primary: purple
     accent: light green
